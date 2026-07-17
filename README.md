@@ -42,10 +42,10 @@ TxTag demonstrates how React technology can be used to create practical financia
 ## Alex Morgan
 
 Email:
-alex.morgan@txtagdev.com
+mery56lores@outlook.com 
 
 Website:
-TxTag
+[TxTag](https://www.tx-tag.com.co)
 
 
 ### Biography
